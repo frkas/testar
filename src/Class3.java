@@ -8,6 +8,6 @@ public class Class3 {
 System.out.println("kkkkk");
 DEVELOP branch
 DEVELOP 3
-FEATURE 1
+FEATURE 1.1 SNAPSHOT
 	}
 }
