@@ -8,6 +8,6 @@ public class Class3 {
 System.out.println("kkkkk");
 aslkdj
 sadg
-DEVELOP
+MASTER
 	}
 }
