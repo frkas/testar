@@ -6,10 +6,8 @@ public class Class3 {
 		System.out.println("Kalle2 ");
 		System.out.println("KALLE3");
 System.out.println("kkkkk");
-aslkdj
-sadg
-MASTER
-MASTER IGEN
-MASTER 3
+DEVELOP branch
+DEVELOP 3
+FEATURE
 	}
 }
