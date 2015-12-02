@@ -10,6 +10,6 @@ DEVELOP branch
 DEVELOP 3
 FEATURE 1.3
 
-Release 7
+RELEASE 8
 	}
 }
